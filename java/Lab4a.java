@@ -1,3 +1,4 @@
+package java;
 class Lab4a{
     public static void main(String[] args) {
         int num;

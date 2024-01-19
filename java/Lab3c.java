@@ -1,3 +1,4 @@
+package java;
 import java.util.*;
 class Lab3c{
     public static void main(String[] args) {

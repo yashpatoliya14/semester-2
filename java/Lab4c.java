@@ -1,3 +1,4 @@
+package java;
 class Lab4c{
     public static void main(String[] args) {
         
