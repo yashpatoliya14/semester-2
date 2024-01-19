@@ -1,5 +1,5 @@
 package java;
-import java.util.*;
+import java.util.Scanner;
 class Lab4b{
     public static void main(String[] args) {
         char ch;
