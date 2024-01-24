@@ -11,10 +11,10 @@ class Lab4b{
            
             ch = args[0].charAt(i);
            
-            if(ch=='a' || ch=='e' ||ch=='i' ||ch=='o' ||ch=='u'){
+            if(ch=='a' || ch=='e' ||ch=='i' ||ch=='o' ||ch=='u'|| ch=='A' || ch=='E' ||ch=='I' ||ch=='O' ||ch=='U'){
                 System.out.println("Vowel : " + ch);
             }else{
-                System.out.println("componants : " + ch);
+                System.out.println("con : " + ch);
             }
            } 
     }
