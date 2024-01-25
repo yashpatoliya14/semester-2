@@ -1,4 +1,4 @@
-package java;
+
 import java.util.Scanner;
 class Lab4b{
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ class Lab4b{
             if(ch=='a' || ch=='e' ||ch=='i' ||ch=='o' ||ch=='u'|| ch=='A' || ch=='E' ||ch=='I' ||ch=='O' ||ch=='U'){
                 System.out.println("Vowel : " + ch);
             }else{
-                System.out.println("con : " + ch);
+                System.out.println("consonents : " + ch);
             }
            } 
     }
